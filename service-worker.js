@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "f114dabac9a8b27ccaec63635c0e3a3d"
+    "revision": "80a2990d77daaea8cdf4ac1ea5057fca"
   },
   {
     "url": "abduction.svg",
@@ -29,11 +29,11 @@ self.__precacheManifest = [
   },
   {
     "url": "about/index.html",
-    "revision": "9e992285ca2882e9951282fd5390ebac"
+    "revision": "15b474739186a98f91ded6bc9520b909"
   },
   {
-    "url": "assets/css/0.styles.acf13bf3.css",
-    "revision": "07dbfbd05617d18c3b5e55798bec63b1"
+    "url": "assets/css/0.styles.f11c362c.css",
+    "revision": "1266005bde0c2483aa3f529c2d33f3a4"
   },
   {
     "url": "assets/fonts/hack-regular.3eccb984.woff2",
@@ -268,16 +268,16 @@ self.__precacheManifest = [
     "revision": "a8e0040b3c36104838e3e03eff1303bd"
   },
   {
-    "url": "assets/js/app.02530a98.js",
-    "revision": "e2a4c323bb352b53286c1c5fa204706f"
+    "url": "assets/js/app.566621ac.js",
+    "revision": "71c1b703886498b8390f543c40e23e5c"
   },
   {
     "url": "authors/index.html",
-    "revision": "f7b5cb8f96b5bc8508267d1ccc754278"
+    "revision": "da0d64c4562772051e875f4bf02d56ba"
   },
   {
     "url": "authors/ktquez.html",
-    "revision": "3e6edcd8535d63e731f6d8600c17a8ef"
+    "revision": "b2001b14e0f9a0bbce95a9227646c416"
   },
   {
     "url": "autores/ktquez.png",
@@ -285,51 +285,51 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/index.html",
-    "revision": "de96214cff311b44b9ba3bde0e8f463f"
+    "revision": "b661059ce865e92f00d005d82731a8ac"
   },
   {
     "url": "categories/vuejs.html",
-    "revision": "8f4a4d92ccb8d98fef8825df52ad1f99"
+    "revision": "9be0e09c3c4dc965fa332afe267805f0"
   },
   {
     "url": "contact/index.html",
-    "revision": "9540ac0707cf27677f7d536f4e81e378"
+    "revision": "2a627f5832996df002186c307fbf2056"
   },
   {
     "url": "es/autores/index.html",
-    "revision": "a0cfaf068964beb010101bb372e48758"
+    "revision": "61ac79061f3dcfdb08be6ce18aae3fc2"
   },
   {
     "url": "es/autores/ktquez.html",
-    "revision": "ed77fc665ad611b6cbd7fa6c9bb4fc4d"
+    "revision": "be204fa04c4fc570c038951a34b75576"
   },
   {
     "url": "es/categorias/index.html",
-    "revision": "2e550dc6693371b521544230597b1e73"
+    "revision": "3acaf11c82ec8e81b4bba7a18f20ec92"
   },
   {
     "url": "es/categorias/vuejs.html",
-    "revision": "57328785aa9aa71ddf1b043db93b47bd"
+    "revision": "4cf3ba203218838f8f874f133cdd03d1"
   },
   {
     "url": "es/contacto/index.html",
-    "revision": "82d438a5cdd2a371045f87bffd80bf91"
+    "revision": "4c6ffcb5061f37850c9754a036d45ea2"
   },
   {
     "url": "es/index.html",
-    "revision": "c951bb0d9e5c6155027fa61192c525ec"
+    "revision": "026f710ac2c9b1dde9f69343d40dab99"
   },
   {
     "url": "es/posts/index.html",
-    "revision": "f8d820d8a89b9fc82d336e1ea5fb95c0"
+    "revision": "faf068155588686b134448fc5a6e102b"
   },
   {
     "url": "es/posts/mi-primir-post.html",
-    "revision": "e64da139be50a910629d8a65049ee116"
+    "revision": "bcfb483ce54428d8e802af3c4019ec13"
   },
   {
     "url": "es/sobre/index.html",
-    "revision": "7ee290311b1595581694b5083777901b"
+    "revision": "bffa30a2b841ebadecbaaf5b15dd9266"
   },
   {
     "url": "fallback.png",
@@ -481,7 +481,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "621abab8ef22f17f404e0e645ef3bb5f"
+    "revision": "14b74f30adc030023d1874dfe644bbb0"
   },
   {
     "url": "ktquez-play-logo.png",
@@ -493,47 +493,47 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/index.html",
-    "revision": "3ac28e736144519537c568e3247409f3"
+    "revision": "71098fbedbcedac08305db4193487a74"
   },
   {
     "url": "posts/my-first-post.html",
-    "revision": "3a24355dde34f7ee333f4d877d299c15"
+    "revision": "7f14dc742ffdd69d03d6222ed84b2c6b"
   },
   {
     "url": "pt/autores/index.html",
-    "revision": "26c6e0e2078fe87c3e2217e80a9267b0"
+    "revision": "af6f922f78f2d3be970a8a29521a82aa"
   },
   {
     "url": "pt/autores/ktquez.html",
-    "revision": "4f7492ec54a1e9b366a727f122bbcdcb"
+    "revision": "7880e8676150dfc83d4e1805c960a73c"
   },
   {
     "url": "pt/categorias/index.html",
-    "revision": "86804d5979493aa3fff4f66543b1bbd6"
+    "revision": "63acbfa6fead1e967cb00af8b73cefb8"
   },
   {
     "url": "pt/categorias/vuejs.html",
-    "revision": "7b03ab5e94d4af5ec0400eddda7d82d3"
+    "revision": "1fe21797a539028f672eb90b8385cfca"
   },
   {
     "url": "pt/contato/index.html",
-    "revision": "71cab7f80a4e25029b6104595e91fa52"
+    "revision": "fb2776a86f4ea523cb49eec3701d3691"
   },
   {
     "url": "pt/index.html",
-    "revision": "8d716d90fb69311933ed7899cb5caae0"
+    "revision": "391c46a1b534807f492004c9b00a3573"
   },
   {
     "url": "pt/posts/index.html",
-    "revision": "215a6154af559d328d7cf1f236080378"
+    "revision": "4946631f2090166d83d58273b0bea2d7"
   },
   {
     "url": "pt/posts/meu-primeiro-post.html",
-    "revision": "3bb283c49123a265d5257a65e2310c45"
+    "revision": "be6f56b3ecd10160031ff933c0ef05fc"
   },
   {
     "url": "pt/sobre/index.html",
-    "revision": "3a5a431b7b730f339dd504152719432a"
+    "revision": "63afdc12b49dbb7d21437064313c3c31"
   },
   {
     "url": "watermark-logo.png",

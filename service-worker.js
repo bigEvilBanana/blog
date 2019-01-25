@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "9ba054173ed68c0cbd1633ce2331b993"
+    "revision": "f114dabac9a8b27ccaec63635c0e3a3d"
   },
   {
     "url": "abduction.svg",
@@ -29,7 +29,7 @@ self.__precacheManifest = [
   },
   {
     "url": "about/index.html",
-    "revision": "7a97943f5856a305900315b800fa3826"
+    "revision": "9e992285ca2882e9951282fd5390ebac"
   },
   {
     "url": "assets/css/0.styles.acf13bf3.css",
@@ -268,16 +268,16 @@ self.__precacheManifest = [
     "revision": "a8e0040b3c36104838e3e03eff1303bd"
   },
   {
-    "url": "assets/js/app.b8e15832.js",
-    "revision": "fce148f5dacb2eef53c934ae1a85bc9f"
+    "url": "assets/js/app.02530a98.js",
+    "revision": "e2a4c323bb352b53286c1c5fa204706f"
   },
   {
     "url": "authors/index.html",
-    "revision": "ff57491020667fcc4421de910d44ad2e"
+    "revision": "f7b5cb8f96b5bc8508267d1ccc754278"
   },
   {
     "url": "authors/ktquez.html",
-    "revision": "c626808e5dd3f2b9972d0fc450b045bb"
+    "revision": "3e6edcd8535d63e731f6d8600c17a8ef"
   },
   {
     "url": "autores/ktquez.png",
@@ -285,51 +285,51 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/index.html",
-    "revision": "c6ded9cb4902f45a6a0696852be9a39f"
+    "revision": "de96214cff311b44b9ba3bde0e8f463f"
   },
   {
     "url": "categories/vuejs.html",
-    "revision": "4f76b80b6e7b202d3e68f7c7dba8435e"
+    "revision": "8f4a4d92ccb8d98fef8825df52ad1f99"
   },
   {
     "url": "contact/index.html",
-    "revision": "1ad154f2c688cf90565e439e096a39c6"
+    "revision": "9540ac0707cf27677f7d536f4e81e378"
   },
   {
     "url": "es/autores/index.html",
-    "revision": "c769bda9e550e878d0e76502edbb9450"
+    "revision": "a0cfaf068964beb010101bb372e48758"
   },
   {
     "url": "es/autores/ktquez.html",
-    "revision": "c65b274f2a5fd5261e04848852b8f18a"
+    "revision": "ed77fc665ad611b6cbd7fa6c9bb4fc4d"
   },
   {
     "url": "es/categorias/index.html",
-    "revision": "e9f94b25500a27654b8ef2b1c0d25daf"
+    "revision": "2e550dc6693371b521544230597b1e73"
   },
   {
     "url": "es/categorias/vuejs.html",
-    "revision": "fcdba8dc1f6db70d344a4e28b5ae1ab7"
+    "revision": "57328785aa9aa71ddf1b043db93b47bd"
   },
   {
     "url": "es/contacto/index.html",
-    "revision": "d672d5a61246240aa6f3ab40c88c85da"
+    "revision": "82d438a5cdd2a371045f87bffd80bf91"
   },
   {
     "url": "es/index.html",
-    "revision": "b5c9eb4c7123214f3a2111df98ea2024"
+    "revision": "c951bb0d9e5c6155027fa61192c525ec"
   },
   {
     "url": "es/posts/index.html",
-    "revision": "859004c8abf1714112b4136130bb085f"
+    "revision": "f8d820d8a89b9fc82d336e1ea5fb95c0"
   },
   {
     "url": "es/posts/mi-primir-post.html",
-    "revision": "842dacdfc44377e14eee602791770c6e"
+    "revision": "e64da139be50a910629d8a65049ee116"
   },
   {
     "url": "es/sobre/index.html",
-    "revision": "4edd5f9d0b48004e8f862c25c46e7478"
+    "revision": "7ee290311b1595581694b5083777901b"
   },
   {
     "url": "fallback.png",
@@ -481,7 +481,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "f1684fbceedf2169b5e046a0de84b339"
+    "revision": "621abab8ef22f17f404e0e645ef3bb5f"
   },
   {
     "url": "ktquez-play-logo.png",
@@ -493,47 +493,47 @@ self.__precacheManifest = [
   },
   {
     "url": "posts/index.html",
-    "revision": "8f7304e568ef7d26304e6d5a3ea1ef43"
+    "revision": "3ac28e736144519537c568e3247409f3"
   },
   {
     "url": "posts/my-first-post.html",
-    "revision": "09c9377fe1777da86537042c3b428f29"
+    "revision": "3a24355dde34f7ee333f4d877d299c15"
   },
   {
     "url": "pt/autores/index.html",
-    "revision": "1d5b8ad1f83c5aef9ca426b9f82846a7"
+    "revision": "26c6e0e2078fe87c3e2217e80a9267b0"
   },
   {
     "url": "pt/autores/ktquez.html",
-    "revision": "a6c775fcd49647adecce9f6963751950"
+    "revision": "4f7492ec54a1e9b366a727f122bbcdcb"
   },
   {
     "url": "pt/categorias/index.html",
-    "revision": "a966779397f1f7f3ff40ae964eba7822"
+    "revision": "86804d5979493aa3fff4f66543b1bbd6"
   },
   {
     "url": "pt/categorias/vuejs.html",
-    "revision": "679d7e62733c0b3cd3fddb0895307f44"
+    "revision": "7b03ab5e94d4af5ec0400eddda7d82d3"
   },
   {
     "url": "pt/contato/index.html",
-    "revision": "1fc0d39a5acd3402f51040da6f41aef9"
+    "revision": "71cab7f80a4e25029b6104595e91fa52"
   },
   {
     "url": "pt/index.html",
-    "revision": "a647af6c872b5d2c6e9cfc8730036eda"
+    "revision": "8d716d90fb69311933ed7899cb5caae0"
   },
   {
     "url": "pt/posts/index.html",
-    "revision": "68f40b44edd4dc3b58c654334c539332"
+    "revision": "215a6154af559d328d7cf1f236080378"
   },
   {
     "url": "pt/posts/meu-primeiro-post.html",
-    "revision": "c957be466f3bc81eacfd80731ccb2eee"
+    "revision": "3bb283c49123a265d5257a65e2310c45"
   },
   {
     "url": "pt/sobre/index.html",
-    "revision": "36b021d99eb5f91153d637893c03e9b3"
+    "revision": "3a5a431b7b730f339dd504152719432a"
   },
   {
     "url": "watermark-logo.png",
